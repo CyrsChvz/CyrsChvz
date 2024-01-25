@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/fd/40/a4/fd40a4b8b151c4e432106576187d03c9.gif))
 <h1 align="center">🍆 Cyrus Chavez 🍆</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="360" src="https://i.gifer.com/fzNq.gif">
