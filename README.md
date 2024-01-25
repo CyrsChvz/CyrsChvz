@@ -2,6 +2,7 @@
 <h1 align="center">🍆 Cyrus Chavez 🍆</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+![talong](https://github.com/CyrsChvz/CyrsChvz/assets/157597327/83e10778-6450-4039-a6ee-0cebca88504a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrschvz&label=Profile%20views&color=0e75b6&style=flat" alt="cyrschvz" /> </p>
 
