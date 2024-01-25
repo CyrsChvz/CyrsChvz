@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/fd/40/a4/fd40a4b8b151c4e432106576187d03c9.gif)
 <h1 align="center">🍆 Cyrus Chavez 🍆</h1>
 <h3 align="center"></h3>
-<img align="right"src="https://i.gifer.com/fzNq.gif">
+<img align="right"><img src="https://i.gifer.com/fzNq.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrschvz&label=Profile%20views&color=0e75b6&style=flat" alt="cyrschvz" /> </p>
 
