@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/e43d96042fff1032998fa01b8e5447bf/4ca026a765e1a6c4-18/s1280x1920/ad0ca47218cbd6144108ec88a6af0e7229ddc76e.gif)
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">🍆 Cyrus Chavez 🍆</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndodTJwZzk4cXV1cnoyODE0c2ZpOTB1dHQxNmM0amJyNHM4ZXFrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubXMUuIuLHpJ9vf5zN/giphy.gif"
