@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cyrschvz" target="blank"><img src="https://img.shields.io/twitter/follow/cyrschvz?logo=twitter&style=for-the-badge" alt="cyrschvz" /></a> </p>
 
+An individual currently familiarizing himself with programming by tinkering with his ***EggPlant***
 - 🔭 I’m currently studying at **BatState-U TNEU**
 
 - 🌱 I’m currently learning **Programming**
