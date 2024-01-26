@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">🍆 Cyrus Chavez 🍆</h1>
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndodTJwZzk4cXV1cnoyODE0c2ZpOTB1dHQxNmM0amJyNHM4ZXFrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubXMUuIuLHpJ9vf5zN/giphy.gif"
+<img align="right" alt="Coding" width="350" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndodTJwZzk4cXV1cnoyODE0c2ZpOTB1dHQxNmM0amJyNHM4ZXFrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubXMUuIuLHpJ9vf5zN/giphy.gif"
 
 <p align="l"> <img src="https://komarev.com/ghpvc/?username=cyrschvz&label=Profile%20views&color=0e75b6&style=flat" alt="cyrschvz" /> </p>
 
