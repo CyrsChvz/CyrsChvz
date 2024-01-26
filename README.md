@@ -1,11 +1,12 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">🍆 Cyrus Chavez 🍆</h1>
-<h3 align="center"></h3>
-<img align="right" alt="Coding" width="350" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndodTJwZzk4cXV1cnoyODE0c2ZpOTB1dHQxNmM0amJyNHM4ZXFrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubXMUuIuLHpJ9vf5zN/giphy.gif"
+<h3 align="center"></h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrschvz&label=Profile%20views&color=0e75b6&style=flat" alt="cyrschvz" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrschvz" alt="cyrschvz" /></a> </p>
+
 
 <p align="l"> <img src="https://komarev.com/ghpvc/?username=cyrschvz&label=Profile%20views&color=0e75b6&style=flat" alt="cyrschvz" /> </p>
-
 <p align="left"> <a href="https://twitter.com/cyrschvz" target="blank"><img src="https://img.shields.io/twitter/follow/cyrschvz?logo=twitter&style=for-the-badge" alt="cyrschvz" /></a> </p>
+<img align="right" alt="Coding" width="350" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndodTJwZzk4cXV1cnoyODE0c2ZpOTB1dHQxNmM0amJyNHM4ZXFrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubXMUuIuLHpJ9vf5zN/giphy.gif"
 
 ### "An individual currently familiarizing himself with programming" by tinkering with ***EggPlants*** (insert some 🍆 GIF)"
 
