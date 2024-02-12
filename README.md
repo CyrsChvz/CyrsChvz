@@ -6,7 +6,7 @@
 
 <p align="l"> <img src="https://komarev.com/ghpvc/?username=cyrschvz&label=Profile%20views&color=0e75b6&style=flat" alt="cyrschvz" /> </p>
 <p align="left"> <a href="https://twitter.com/cyrschvz" target="blank"><img src="https://img.shields.io/twitter/follow/cyrschvz?logo=twitter&style=for-the-badge" alt="cyrschvz" /></a> </p>
-<img align="right" alt="Coding" width="350" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndodTJwZzk4cXV1cnoyODE0c2ZpOTB1dHQxNmM0amJyNHM4ZXFrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubXMUuIuLHpJ9vf5zN/giphy.gif"
+<img align="right" alt="Coding" width="300" height="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndodTJwZzk4cXV1cnoyODE0c2ZpOTB1dHQxNmM0amJyNHM4ZXFrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ubXMUuIuLHpJ9vf5zN/giphy.gif"
 
 ### "An individual currently familiarizing himself with programming" by tinkering with ***EggPlants*** (insert some 🍆 GIF)"
 
