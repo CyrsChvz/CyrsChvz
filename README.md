@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="left">🍆 Cyrus Chavez 🍆</h1>
-<h3 align="center"></h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrschvz&label=Profile%20views&color=0e75b6&style=flat" alt="cyrschvz" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrschvz" alt="cyrschvz" /></a> </p>
 
 
