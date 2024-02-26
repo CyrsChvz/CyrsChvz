@@ -52,6 +52,7 @@
 ###
 
 <div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyrsChvz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="CyrsChvz" /></p>
   <img src="https://github-readme-stats.vercel.app/api?username=cyrschvz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=cyrschvz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
 </div>
