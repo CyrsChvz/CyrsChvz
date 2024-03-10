@@ -43,7 +43,7 @@
   <br/><br/><br/>
 </div>
 
-### My recent 🍆 bg
+### My recent 🍆 bg music
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3126xpk4xrt7enesn2cpftl7nl24)
 
